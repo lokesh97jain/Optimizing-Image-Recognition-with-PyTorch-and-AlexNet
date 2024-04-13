@@ -12,6 +12,12 @@ The project covers several key areas:
   4. **Optimizing CNN & Data Augmentation**: Utilizes the Street View House Numbers (SVHN) dataset, applying data augmentation to improve the model's generalization and performance.
 
 ## Folder Structure
+
+Dataset Link:
+```
+https://kaggle.com/datasets/c3a1ad7d0ab948e6bf9f2242ae06247ed5ff8adc894215aa1a292992ea9d99bc
+```
+
 ```
 ├── datasets/                      # Folder containing dataset used in the project
 │   ├── dogs/          
