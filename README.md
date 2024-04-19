@@ -2,8 +2,6 @@
 
 This project explores the construction and optimization of neural networks for image classification tasks, focusing on the AlexNet architecture. It includes building a basic neural network, optimizing it, implementing and improving AlexNet, and enhancing model performance with data augmentation.
 
-<img src="https://github.com/lokesh97jain/Optimizing-Image-Recognition-with-PyTorch-and-AlexNet/assets/44944748/3c05285a-0d53-4854-b28e-ba5890e3569f" height="50%" width="50%">
-
 ## Overview
 The project covers several key areas:
   1. **Building a Basic Neural Network**: Begins with a foundational approach to binary classification, highlighting data preprocessing, model architecture, and performance metrics.
